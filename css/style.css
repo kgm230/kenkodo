@@ -1,5 +1,9 @@
 @charset "utf-8";
+* {
 
+outline: 1px #000 solid;
+
+}
 
 html {
     font-size: 100%;
